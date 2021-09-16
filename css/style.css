@@ -1,0 +1,33 @@
+* {
+    
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 10px;
+}
+/* Intestazione */
+header{
+    background-color: rgba(250, 87, 250, 0.89);
+    height: 100px;
+    width: 80% ;
+    margin-bottom: 20px;
+    margin:auto;
+    margin-bottom: 20px;
+}
+/* Blocco pagina */
+.primo-container{
+    background-color: rgba(223, 195, 70, 0.877);
+    height: 300px;
+    width: 80%;
+    margin:auto;
+    margin-bottom: 10px;
+}
+/* Blocco finale */
+footer{
+    height: 50px;
+    background-color: rgb(173, 40, 250);
+    margin: auto;
+    width: 80%;
+}
